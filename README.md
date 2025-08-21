@@ -2,6 +2,25 @@
 
 Progressive learning path for mastering LangGraph agent development.
 
+## 🎓 Learning Methodology
+
+**❗️ Important: This is a hands-on learning tutorial where YOU implement the code.**
+
+**🤖 AI Assistant Role:**
+- **Concept explanation**: Core principles and theory
+- **Architecture guidance**: Class/function structure and design patterns
+- **Code snippets**: Key implementation examples (NOT full solutions)
+- **Debugging help**: Support when you're stuck
+- **Code review**: Feedback on your implementations
+
+**👨‍💻 Your Role as Learner:**
+- **Write the code**: Implement based on guidance and examples
+- **Test thoroughly**: Verify your implementations work correctly
+- **Debug independently**: Solve issues and understand error messages
+- **Ask questions**: When concepts are unclear or you need direction
+
+**💡 Progress Tip**: Move slowly through each phase. Fully understand and implement each concept before advancing!
+
 ## 📁 Structure
 
 Each numbered file represents a complete phase of learning:
